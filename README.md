@@ -1,4 +1,4 @@
-# the_series_of_breaking_bad
+# The Rick and Morty API
 
 A new Flutter project.
 

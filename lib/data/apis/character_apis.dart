@@ -9,6 +9,7 @@ class CharacterApis {
     BaseOptions baseOptions = BaseOptions(
       baseUrl: baseUrl,
       contentType: 'UTF-8',
+      receiveDataWhenStatusError: true,
     );
   }
 }
